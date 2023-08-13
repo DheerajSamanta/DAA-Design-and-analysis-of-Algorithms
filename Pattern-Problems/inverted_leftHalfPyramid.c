@@ -3,6 +3,7 @@ void invertedLeftHalfPyramid(); //func.declaration
 int main(){
 
 invertedLeftHalfPyramid();// func. Calling
+return 0;
 }
 void invertedLeftHalfPyramid(){ //func. defination
   int num;
